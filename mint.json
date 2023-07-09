@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://cdn.zymono.com/oneid/dark1.png",
+    "light": "/logo/o.png"
   },
   "favicon": "/favicon.png",
   "colors": {
@@ -13,13 +13,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "name": "Zymono",
+      "url": "https://zymono.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://oneid.zymono.com/account/"
   },
   "tabs": [
     {
